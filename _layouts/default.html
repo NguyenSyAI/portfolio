@@ -11,6 +11,8 @@
 
   {% include nav.html %}
 
+  {% if page.url == "/" %}
+  <!-- ========== HOME PAGE (2 columns) ========== -->
   <div style="display:flex; max-width:1200px; margin:0 auto; gap:40px; padding:20px;">
     
     <!-- Sidebar -->
@@ -28,6 +30,13 @@
     </main>
 
   </div>
+
+  {% else %}
+  <!-- ========== OTHER PAGES (single column) ========== -->
+  <main style="max-width:900px; margin:0 auto; padding:20px;">
+    {{ content }}
+  </main>
+  {% endif %}
 
 </body>
 </html>
