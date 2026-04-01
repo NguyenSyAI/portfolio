@@ -6,93 +6,88 @@ title: Projects
 # Projects
 
 <style>
-.project-card {
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 15px;
-  margin-bottom: 25px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
 }
 
-.project-card img {
+.card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.card img {
   width: 100%;
-  border-radius: 8px;
+  height: 220px;
+  object-fit: cover;
+  transition: transform 0.4s ease;
 }
 
-.project-title {
-  font-size: 20px;
+.card:hover img {
+  transform: scale(1.08);
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0,0,0,0.6);
+  color: white;
+  width: 100%;
+  padding: 15px;
+  transition: 0.3s;
+}
+
+.card:hover .overlay {
+  background: rgba(0,0,0,0.8);
+}
+
+.title {
+  font-size: 18px;
   font-weight: bold;
-  margin-top: 10px;
 }
 
-.project-desc {
-  font-size: 14px;
-  margin-top: 8px;
+.desc {
+  font-size: 13px;
 }
 </style>
 
----
+<div class="grid">
 
-## 🤖 IMU-Based Gait Event Detection
+<a href="project_gait.html" class="card">
+  <img src="assets/img/imu_plot.png">
+  <div class="overlay">
+    <div class="title">Gait Event Detection</div>
+    <div class="desc">IMU + Deep Learning</div>
+  </div>
+</a>
 
-<div class="project-card">
+<a href="project_pushoff.html" class="card">
+  <img src="assets/img/gait_example.gif">
+  <div class="overlay">
+    <div class="title">Push-Off Prediction</div>
+    <div class="desc">Critical gait phase modeling</div>
+  </div>
+</a>
 
-<img src="assets/img/imu_plot.png">
+<a href="project_experiment.html" class="card">
+  <img src="assets/img/experiment.jpg">
+  <div class="overlay">
+    <div class="title">Experiment Setup</div>
+    <div class="desc">Human walking trials</div>
+  </div>
+</a>
 
-<div class="project-title">Gait Event Detection using IMU</div>
-
-<div class="project-desc">
-Deep learning model using two IMUs (shank & foot) to detect gait events including Heel Strike, Foot Flat, Toe Off, and Push-Off phase.
-</div>
-
-</div>
-
----
-
-## 📊 Push-Off Prediction Model
-
-<div class="project-card">
-
-<img src="assets/img/gait_example.gif">
-
-<div class="project-title">Push-Off Timing Prediction</div>
-
-<div class="project-desc">
-Predicting critical push-off phase to improve assistive robotics performance and gait efficiency.
-</div>
-
-</div>
-
----
-
-## 🎥 Experiment Demonstration
-
-<div class="project-card">
-
-<video width="100%" controls>
-  <source src="assets/video/demo.mp4" type="video/mp4">
-</video>
-
-<div class="project-title">Human Walking Experiment</div>
-
-<div class="project-desc">
-Experimental setup with IMU sensors capturing gait dynamics across different walking speeds.
-</div>
-
-</div>
-
----
-
-## 🧠 Deep Learning Pipeline
-
-<div class="project-card">
-
-<img src="assets/img/model_pipeline.png">
-
-<div class="project-title">Model Architecture</div>
-
-<div class="project-desc">
-CNN/LSTM-based pipeline for time-series classification of gait phases with imbalanced data handling.
-</div>
+<a href="project_model.html" class="card">
+  <img src="assets/img/model_pipeline.png">
+  <div class="overlay">
+    <div class="title">Deep Learning Model</div>
+    <div class="desc">CNN + LSTM pipeline</div>
+  </div>
+</a>
 
 </div>
