@@ -1,12 +1,10 @@
-
 title: Sy Nguyen
 logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
 
 header_pages:
   - index.md
-  - information.md
   - projects.md
-
-
-
+  - information.md
+  - code.md
+  - album.md
