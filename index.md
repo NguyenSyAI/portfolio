@@ -15,7 +15,7 @@ I work on IMU-based gait analysis and deep learning for assistive robotics, focu
 
 ## 🔗 Explore
 
-<div style="margin-top:20px;">
+<!-- <div style="margin-top:20px;">
 
 <a href="projects.md">
 <button style="margin:5px;padding:10px 18px;border:none;border-radius:8px;background:#0366d6;color:white;cursor:pointer;">
@@ -41,4 +41,4 @@ I work on IMU-based gait analysis and deep learning for assistive robotics, focu
 </button>
 </a>
 
-</div>
+</div> -->
