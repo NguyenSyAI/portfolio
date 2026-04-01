@@ -14,16 +14,19 @@ Nguyen Van Sy graduated with a B.S. degree from Vietnam National University, Ho 
 
 **Postdoctoral Research Associate**  
 Department of Mechanical & Aerospace Engineering, University of Central Florida  
-*Sept 2023 – Present*
+*Sept 2023 – Present*  
+Assistive device design and autonomous systems
 
 **M.S. & Ph.D., Aerospace and Mechanical Engineering**  
 Korea Aerospace University  
 *Aug 2017 – Aug 2023*  
-Focus: Dynamics & Control, Computer Vision, Deep Learning
+Dynamics & Control, Computer Vision, Deep Learning
 
 **B.S., Mechanical Engineering (Honors Program)**  
 Vietnam National University – Ho Chi Minh City University of Technology  
-*Aug 2012 – May 2017*
+*Aug 2012 – May 2017*  
+Machine design and control
+
 
 
 ---
