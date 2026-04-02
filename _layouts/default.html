@@ -13,11 +13,10 @@
 
   {% if page.url == "/" %}
   <!-- ========== HOME PAGE (2 columns) ========== -->
-  <div style="display:flex; max-width:1200px; margin:0 auto; gap:40px; padding:20px;">
-
-    
+  <div style="width:180px; height:180px; overflow:hidden; border-radius:50%; margin:0 auto 15px auto;">
+    <!-- This adds 15px space below the avatar. -->
     <!-- Sidebar -->
-    <aside style="flex:1; max-width:300px;">
+    <aside style="flex:1; max-width:300px; text-align:center;">
       {% if site.logo %}
         <!-- <img src="{{ site.logo | relative_url }}" alt="Logo" style="width:100%; border-radius:50%;"> -->
           <div style="width:180px; height:180px; overflow:hidden; border-radius:50%; margin:auto;">
