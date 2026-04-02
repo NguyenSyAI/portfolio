@@ -13,7 +13,10 @@
 
   {% if page.url == "/" %}
   <!-- ========== HOME PAGE (2 columns) ========== -->
-  <div style="display:flex; max-width:1200px; margin:0 auto; gap:40px; padding:20px;">
+  <!-- <div style="display:flex; max-width:1200px; margin:0 auto; gap:40px; padding:20px;"> -->
+    <div style="width:180px; height:180px; overflow:hidden; border-radius:50%; margin:auto;">
+  <img src="{{ site.logo | relative_url }}" style="width:100%; height:100%; object-fit:cover;">
+</div>
     
     <!-- Sidebar -->
     <aside style="flex:1; max-width:300px;">
