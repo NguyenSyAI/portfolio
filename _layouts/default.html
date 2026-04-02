@@ -5,8 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+    <!-- Add your nav color styling HERE -->
+<style>
+nav a {
+  color: #333333;          /* Normal grey */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: #000000;          /* Darker on hover */
+  text-decoration: underline;
+}
+</style>
+  
 </head>
 
+
+
+  
 <body>
 
   {% include nav.html %}
