@@ -3,8 +3,9 @@ layout: default
 title: 3D Printing Machine for Composite Materials
 ---
 
-# 3D Printing Machine for Composite Materials
-
+<h1 style="text-align:center; margin-top:20px;">
+  3D Printing Machine for Composite Materials
+</h1>
 
 
 
