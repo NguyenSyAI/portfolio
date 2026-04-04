@@ -17,6 +17,17 @@ title: 3D Printing Machine for Composite Materials
        style="width:100%; border-radius:10px;">
 
   <!-- Centered caption on top of the image -->
+    <!-- Caption BELOW the image -->
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;
+  ">
+    Design - Fabrication - Operation
+  </div>
+
+  
   <div style="
       position: absolute;
       top: 50%;
