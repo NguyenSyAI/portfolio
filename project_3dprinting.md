@@ -5,31 +5,14 @@ title: 3D Printing Machine for Composite Materials
 
 # 3D Printing Machine for Composite Materials
 
-<div style="
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  margin: 25px 0;
-">
 
-  <!-- Left image + caption -->
-  <div style="text-align:center;">
-    <img src="assets/img/3dprinting_part1.jpg" 
-         style="width:100%; border-radius:10px;">
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      Toolhead Assembly
-    </div>
+<div style="text-align:center; margin: 25px 0;">
+  <img src="assets/3D Printing Machine for Composite Materials.png"
+       alt="Toolhead Assembly"
+       style="width:100%; max-width:600px; border-radius:10px;">
+  <div style="font-size:14px; color:#666; margin-top:6px;">
+    Toolhead Assembly
   </div>
-
-  <!-- Right image + caption -->
-  <div style="text-align:center;">
-    <img src="assets/img/3dprinting_part2.jpg" 
-         style="width:100%; border-radius:10px;">
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      Composite Extrusion Path
-    </div>
-  </div>
-
 </div>
 
 
