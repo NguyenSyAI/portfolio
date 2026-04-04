@@ -28,18 +28,6 @@ title: 3D Printing Machine for Composite Materials
   </div>
 
   
-  <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 22px;
-      font-weight: 600;
-      text-shadow: 0 0 8px rgba(0,0,0,0.7);
-  ">
-    Design - Fabrication - Operation
-  </div>
 
 </div>
 
