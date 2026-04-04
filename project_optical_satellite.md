@@ -17,14 +17,7 @@ title: Small Satellite Optical Systems
        style="width:100%; border-radius:10px;">
 
   <!-- Caption BELOW the image -->
-  <div style="
-      margin-top: 10px;
-      font-size: 22px;
-      font-weight: 600;
-      color: #444;
-  ">
-    Design - Fabrication - Operation
-  </div>
+
 
 </div>
 
@@ -71,7 +64,17 @@ title: Small Satellite Optical Systems
 
 </div>
 
+<div style="
+      margin-top: 10px;
+      font-size: 22px;
+      font-weight: 600;
+      color: #444;
+  ">
+    Design - Fabrication - Experiment
+</div>
 
+
+  
 <div style="text-align:center; width: 100%; max-width: 600px; margin: 25px auto;">
   ...
 </div>
