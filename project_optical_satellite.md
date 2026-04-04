@@ -1,3 +1,8 @@
+---
+layout: default
+title: Small Satellite Optical Systems
+---
+
 <h1 style="text-align:center; margin-top:20px;">
   Small Satellite Optical Systems
 </h1>
