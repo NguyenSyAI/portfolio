@@ -67,6 +67,10 @@
 </div>
 
 
+<div style="text-align:center; width: 100%; max-width: 600px; margin: 25px auto;">
+  ...
+</div>
+
 
 ## Overview
 
