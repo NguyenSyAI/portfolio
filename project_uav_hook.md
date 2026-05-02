@@ -34,78 +34,34 @@ The system integrates:
 
 The final prototype achieved **~80% successful retrieval rate** in outdoor tests with multiple victim drones.
 
-<!-- <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-
-  <div style="flex: 1; text-align:center; height: 300px; overflow: hidden;">
-    <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
-         alt="Rescue Mechanism"
-         style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      Mechanical Retrieval Mechanism
-    </div>
-  </div>
-
-  <div style="flex: 1; text-align:center; height: 300px; overflow: hidden;">
-    <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
-         alt="Detection Pipeline"
-         style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      YOLO‑Based Detection Pipeline
-    </div>
-  </div>
-
-</div> -->
-
-## System Architecture (Two Images Side‑by‑Side)
-
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-
-  <!-- Left image -->
-  <div style="flex: 1; text-align:center;">
-    <div style="height: 300px; overflow: hidden; border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
-           alt="Rescue Mechanism"
-           style="width:100%; height:100%; object-fit:cover;">
-    </div>
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      Mechanical Retrieval Mechanism
-    </div>
-  </div>
-
-  <!-- Right image -->
-  <div style="flex: 1; text-align:center;">
-    <div style="height: 300px; overflow: hidden; border-radius:10px;">
-      <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
-           alt="Detection Pipeline"
-           style="width:100%; height:100%; object-fit:cover;">
-    </div>
-    <div style="font-size:14px; color:#666; margin-top:6px;">
-      YOLO‑Based Detection Pipeline
-    </div>
-  </div>
-
-</div>
-
-
-
-
-
-## Demonstration Video
-
-<div style="text-align:center; margin: 30px 0;">
-  <video width="650" controls style="border-radius:10px;">
-    <source src="assets/uav_rescue_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div style="font-size:14px; color:#666; margin-top:6px;">
-    Outdoor UAV Rescue Demonstration
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
   </div>
 </div>
 
----
+
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+  </div>
+</div>
 
 ## Experiment Links
-
 - 🔗 <a href="https://youtu.be/ELhrjnPY3ko" target="_blank">Indoor Vision‑Based Detection Experiment</a>  
 - 🔗 <a href="https://youtu.be/zUUR-JPW-Vc" target="_blank">Outdoor Multi‑Drone Rescue Experiment</a>
 
@@ -118,7 +74,22 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 Lead designer and system developer — responsible for UAV mechanical design, control and fabircation, and full indoor/outdoor testing.
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/kim3abcd-3080979-large.gif"
+  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Picture1DDDDDDDDDDDDDDDDDDDDDDDDDDD.tif"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+  </div>
+</div>
+
+
+
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Picture2dddddddddddddddddddddd.tif"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
