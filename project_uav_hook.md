@@ -34,25 +34,21 @@ The system integrates:
 
 The final prototype achieved **~80% successful retrieval rate** in outdoor tests with multiple victim drones.
 
----
-
-## System Architecture (Two Images Side‑by‑Side)
-
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
 
-  <div style="flex: 1; text-align:center;">
-    <img src="https://github.com/NguyenSyAI/portfolio/blob/main/Drone_0.gif"
+  <div style="flex: 1; text-align:center; height: 300px; overflow: hidden;">
+    <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
          alt="Rescue Mechanism"
-         style="width:100%; border-radius:10px;">
+         style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
       Mechanical Retrieval Mechanism
     </div>
   </div>
 
-  <div style="flex: 1; text-align:center;">
-    <img src="https://github.com/NguyenSyAI/portfolio/blob/main/Drone_image1.png"
+  <div style="flex: 1; text-align:center; height: 300px; overflow: hidden;">
+    <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
          alt="Detection Pipeline"
-         style="width:100%; border-radius:10px;">
+         style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
       YOLO‑Based Detection Pipeline
     </div>
@@ -60,7 +56,6 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 
 </div>
 
----
 
 ## Demonstration Video
 
