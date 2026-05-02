@@ -69,6 +69,8 @@ The final prototype demonstrated high positional repeatability, stable force tra
   </div>
 </div>
 ## Experiment Links
-- 🔗 <a href="https://youtu.be/YZCKeSqud9I" target="_blank"> Experiment </a>  
+- 🔗 <a href="https://youtu.be/YZCKeSqud9I" target="_blank"> Experiment 1 </a>  
+- 🔗 <a href="https://www.youtube.com/watch?v=VB54egLQEzg" target="_blank"> Experiment 2 </a> 
+
 
 
