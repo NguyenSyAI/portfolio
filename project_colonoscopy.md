@@ -63,10 +63,12 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
 - Eliminated IBVS → reduced computation  
 - Improved safety via collision prediction  
 - Reduced operator workload and training time
-- 
-- <video width="100%" controls style="border-radius:10px;">
-  <source src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Autonomous_driving_colonoscopy%205.mp4" type="video/mp4">
+  
+
+<video width="100%" controls style="border-radius:10px;">
+  <source src="assets/Autonomous_driving_colonoscopy%205.mp4" type="video/mp4">
 </video>
+
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
   <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Colonoscopy.png"
