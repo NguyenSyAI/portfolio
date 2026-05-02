@@ -74,7 +74,7 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 Lead designer and system developer — responsible for UAV mechanical design, control and fabircation, and full indoor/outdoor testing.
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/D1.png"
+  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/D11.png"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
