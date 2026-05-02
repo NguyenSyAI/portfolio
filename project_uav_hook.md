@@ -62,8 +62,8 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 </div>
 
 ## Experiment Links
-- 🔗 <a href="https://youtu.be/ELhrjnPY3ko" target="_blank">Indoor Vision‑Based Detection Experiment</a>  
-- 🔗 <a href="https://youtu.be/zUUR-JPW-Vc" target="_blank">Outdoor Multi‑Drone Rescue Experiment</a>
+- 🔗 <a href="https://youtu.be/ELhrjnPY3ko" target="_blank">Indoor and OutDoor Rescue Experiment </a>  
+- 🔗 <a href="https://youtu.be/zUUR-JPW-Vc" target="_blank">Vision‑Based Detection Experiment</a>
 
 
 <h1 style="text-align:center; margin-top:20px;">
