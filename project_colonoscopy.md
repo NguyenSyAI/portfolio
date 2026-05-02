@@ -71,7 +71,7 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
 
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Colonoscopy.png"
+  <img src="assets/Colonoscopy.png"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
@@ -85,7 +85,7 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
 
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Colonoscopy1.png"
+  <img src="assets/Colonoscopy1.png"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
