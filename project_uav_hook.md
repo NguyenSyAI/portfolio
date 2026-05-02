@@ -11,7 +11,7 @@ title: UAV Rescue and Delivery
 Lead designer and system developer — responsible for UAV mechanical design, rescue mechanism development, perception pipeline integration, and full indoor/outdoor testing.
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="assets/uav_rescue_main.png"
+  <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/kim3abcd-3080979-large.gif"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
