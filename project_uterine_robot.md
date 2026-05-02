@@ -4,18 +4,12 @@ title: UAV Rescue and Delivery
 ---
 
 <h1 style="text-align:center; margin-top:20px;">
-  Master–Slave Uterine Manipulation Robot System for Laparoscopic Hysterectomy
-  <br>
   <a href="https://drive.google.com/file/d/1HF4oMZRoWp-EF_oPysVArvt5hySrX4l2/view"
      target="_blank"
-     style="font-size:18px; font-weight:500;">
-    🔗 View Article
+     style="text-decoration:none; color:inherit;">
+    Master–Slave Uterine Manipulation Robot System for Laparoscopic Hysterectomy
   </a>
 </h1>
-
-
-
-
 
 
 
