@@ -14,31 +14,19 @@ title: UAV Rescue and Delivery
 
 
 ## Role
-Lead designer and system developer — responsible for UAV mechanical design, rescue mechanism development, perception pipeline integration, and full indoor/outdoor testing.
-
-<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/kim3abcd-3080979-large.gif"
-       alt="UAV Rescue System"
-       style="width:100%; border-radius:10px;">
-  <div style="
-      margin-top: 10px;
-      font-size: 18px;
-      font-weight: 600;
-      color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
-  </div>
-</div>
+Lead designer and system developer — responsible for mechanical design of the master–slave robotic platform, actuation and sensing integration, control algorithm development, and experimental validation using anatomical models.
 
 ## Overview
-This project focuses on developing an autonomous UAV system capable of **locating, retrieving, and transporting disabled drones** suffering from battery depletion, communication loss, or flight failure.  
-The system integrates:
+This project focuses on developing a master–slave robotic system for uterine manipulation to support laparoscopic hysterectomy procedures. The system improves surgical ergonomics by enabling precise, stable, and remotely controlled uterine positioning, reducing the physical burden on the surgical assistant.
 
-- YOLO‑based aerial object detection  
-- A custom mechanical retrieval mechanism  
-- Autonomous navigation and grasping  
-- Indoor and outdoor rescue experiments  
+The platform integrates:
 
-The final prototype achieved **~80% successful retrieval rate** in outdoor tests with multiple victim drones.
+A master console for intuitive surgeon input
+A slave robotic manipulator with multi‑DOF actuation
+Embedded force‑sensing and position feedback
+Real‑time control algorithms for smooth, safe motion
+Bench‑top and anatomical‑model experiments validating accuracy and responsiveness
+The final prototype demonstrated high positional repeatability, stable force transmission, and improved control precision compared to manual uterine manipulators.
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
   <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Master1.png"
