@@ -29,7 +29,7 @@ Bench‑top and anatomical‑model experiments validating accuracy and responsiv
 The final prototype demonstrated high positional repeatability, stable force transmission, and improved control precision compared to manual uterine manipulators.
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Master1.png"
+  <img src="assets/Master1.png"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
@@ -43,7 +43,7 @@ The final prototype demonstrated high positional repeatability, stable force tra
 
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/Master2.png"
+  <img src="assets/Master2.png"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
@@ -57,7 +57,7 @@ The final prototype demonstrated high positional repeatability, stable force tra
 
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="https://github.com/NguyenSyAI/portfolio/blob/main/assets/0212.gif"
+  <img src="assets/0212.gif"
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
