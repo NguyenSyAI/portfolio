@@ -41,7 +41,7 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
 
   <div style="flex: 1; text-align:center;">
-    <img src="assets/uav_rescue_mechanism.png"
+    <img src="https://github.com/NguyenSyAI/portfolio/blob/main/Drone_0.gif"
          alt="Rescue Mechanism"
          style="width:100%; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
@@ -50,7 +50,7 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
   </div>
 
   <div style="flex: 1; text-align:center;">
-    <img src="assets/uav_detection_pipeline.png"
+    <img src="https://github.com/NguyenSyAI/portfolio/blob/main/Drone_image1.png"
          alt="Detection Pipeline"
          style="width:100%; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
