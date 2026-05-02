@@ -97,6 +97,6 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
 - 🔗 <a href="https://youtu.be/7f8Caa9H9Jo" target="_blank"> Autonomous experiment Method 2 </a>
 - 🔗 <a href="https://youtu.be/hJVRFg1mtqQ" target="_blank"> Autonomous experiment Method 3 </a>
 - 🔗 <a href="https://www.youtube.com/watch?v=NEe99sDCwy4" target="_blank"> Master/Slaver experiment </a>
-
+- 🔗 <a href="https://youtu.be/vcj6f1NP_Lg" target="_blank"> Autonomous Experiment In vivo study on a pig </a>
 
 
