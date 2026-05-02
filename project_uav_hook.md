@@ -34,7 +34,7 @@ The system integrates:
 
 The final prototype achieved **~80% successful retrieval rate** in outdoor tests with multiple victim drones.
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+<!-- <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
 
   <div style="flex: 1; text-align:center; height: 300px; overflow: hidden;">
     <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
@@ -49,6 +49,36 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
     <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
          alt="Detection Pipeline"
          style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
+    <div style="font-size:14px; color:#666; margin-top:6px;">
+      YOLO‑Based Detection Pipeline
+    </div>
+  </div>
+
+</div> -->
+
+## System Architecture (Two Images Side‑by‑Side)
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+
+  <!-- Left image -->
+  <div style="flex: 1; text-align:center;">
+    <div style="height: 300px; overflow: hidden; border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_0.gif"
+           alt="Rescue Mechanism"
+           style="width:100%; height:100%; object-fit:cover;">
+    </div>
+    <div style="font-size:14px; color:#666; margin-top:6px;">
+      Mechanical Retrieval Mechanism
+    </div>
+  </div>
+
+  <!-- Right image -->
+  <div style="flex: 1; text-align:center;">
+    <div style="height: 300px; overflow: hidden; border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/NguyenSyAI/portfolio/main/Drone_image1.png"
+           alt="Detection Pipeline"
+           style="width:100%; height:100%; object-fit:cover;">
+    </div>
     <div style="font-size:14px; color:#666; margin-top:6px;">
       YOLO‑Based Detection Pipeline
     </div>
@@ -73,6 +103,6 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 
 ## Experiment Links
 
-- 🔗 <a href="https://your-link-here.com" target="_blank">Indoor Vision‑Based Detection Experiment</a>  
-- 🔗 <a href="https://your-link-here.com" target="_blank">Outdoor Multi‑Drone Rescue Experiment</a>
+- 🔗 <a href="https://youtu.be/ELhrjnPY3ko" target="_blank">Indoor Vision‑Based Detection Experiment</a>  
+- 🔗 <a href="https://youtu.be/zUUR-JPW-Vc" target="_blank">Outdoor Multi‑Drone Rescue Experiment</a>
 
