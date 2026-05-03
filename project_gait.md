@@ -19,7 +19,7 @@ Lead researcher — responsible for dataset design, IMU instrumentation, gait ev
 ## Overview
 This project introduces a **DeepCNN‑Swin Transformer framework** for real‑time gait event detection using only **two IMUs** (shank + foot). Unlike conventional methods that detect only Heel Strike (HS), Foot Flat (FF), and Toe Off (TO), this work identifies **six gait events**, including two critical push‑off‑related events:
 
-- Maximum Acceleration Down (MAD)  
+- Maximum Acceleration Down (MAD) 
 - Maximum Acceleration Up (MAU)
 
 These events provide **precise timing cues** for adaptive push‑off control in prostheses, AFOs, and powered ankle exoskeletons.
@@ -110,8 +110,30 @@ This hybrid design enables the model to learn both **local kinematic cues** and 
 
 ---
 
-## Visualizations (Optional)
-You can insert your learning curves, confusion matrix, or architecture figure here using:
+## Visualizations 
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+
+  <!-- Left image -->
+  <div style="flex: 1; text-align:center;">
+    <img src="assets/Gait1.png" 
+         style="width:100%; border-radius:10px;">
+    <div style="font-size:14px; color:#666; margin-top:6px;">
+      Image Caption Here
+    </div>
+  </div>
+
+  <!-- Right video -->
+  <div style="flex: 1; text-align:center;">
+    <video width="100%" controls style="border-radius:10px;">
+      <source src="assets/Foot_shank_IMU.mp4" type="video/mp4">
+    </video>
+    <div style="font-size:14px; color:#666; margin-top:6px;">
+      Video Caption Here
+    </div>
+  </div>
+
+</div>
+
 
 ```html
 <img src="assets/YOUR_IMAGE.png" style="width:100%; border-radius:10px;">
