@@ -23,11 +23,11 @@ title: Autonomous Robotic Colonoscopy
   </div>
 </div>
 
-
 ## Role
 <div style="text-align: justify;">
-Designer and system developer — responsible for the mechanical design and fabrication of the master–slave robotic platform (feeding and steering mechanisms), development of the control architecture, and full system integration. Conducted data collection, implemented deep‑learning–based perception modules, and performed comprehensive experimental validation, including bench‑top trials, anatomical‑model testing, and in‑vivo evaluation on a live pig
-<div>
+Designer and system developer — responsible for the mechanical design and fabrication of the master–slave robotic platform (feeding and steering mechanisms), development of the control architecture, and full system integration. Conducted data collection, implemented deep‑learning–based perception modules, and performed comprehensive experimental validation, including bench‑top trials, anatomical‑model testing, and in‑vivo evaluation on a live pig.
+</div>
+
 ---
 
 ## Overview
