@@ -66,7 +66,7 @@ The final prototype demonstrated **improved push‑off power**, **more natural a
 - Outperformed passive prosthesis in multiple metrics
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="assets/Passive1.png.png" 
+  <img src="assets/Passive1.png" 
        alt="UAV Rescue System"
        style="width:100%; border-radius:10px;">
   <div style="
