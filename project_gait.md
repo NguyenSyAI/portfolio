@@ -111,6 +111,7 @@ This hybrid design enables the model to learn both **local kinematic cues** and 
 ---
 
 ## Visualizations 
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
 
   <!-- Left image -->
@@ -118,20 +119,32 @@ This hybrid design enables the model to learn both **local kinematic cues** and 
     <img src="assets/Gait1.png" 
          style="width:100%; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
-      Image Caption Here
+      Gait Event Definitions
     </div>
   </div>
 
-  <!-- Right video -->
+  <!-- Right GIF -->
   <div style="flex: 1; text-align:center;">
-    <video width="100%" controls style="border-radius:10px;">
-      <source src="assets/Foot_shank_IMU.mp4" type="video/mp4">
-    </video>
+    <img src="assets/Foot_shank_IMU.gif" 
+         style="width:100%; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
-      Video Caption Here
+      Foot + Shank IMU Motion Visualization
     </div>
   </div>
 
+</div>
+
+
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="assets/Media3_gait.gif"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Gait Cycle Motion — IMU‑Based Visualization
+  </div>
 </div>
 
 
