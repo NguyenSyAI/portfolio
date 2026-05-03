@@ -9,7 +9,7 @@ title: 3D Printing Machine for Composite Materials
 
 ## Overview
 <div style="text-align: justify;">
-I designed, fabricated, and tested a custom composite‑material 3D printer as part of my bachelor’s thesis. The project covered full mechanical design, toolhead development, motion‑control integration, and experimental validation. The final system successfully printed reinforced composite structures, demonstrating improved stiffness and print quality compared to standard polymer extrusion
+For my bachelor’s thesis, I investigated the development and operation of a composite‑material 3D printing system designed to improve the mechanical performance of printed parts. My work focused on selecting and preparing composite materials, analyzing extrusion behavior, and evaluating print quality under different operating conditions. I studied how temperature, particle content, and process parameters influence layer bonding and structural integrity, and performed experimental tests to assess stiffness, surface quality, and overall print performance. This work demonstrated the potential of low‑cost composite extrusion to enhance strength and durability compared to standard PLA printing.
 <div>
   
 <div style="margin-top:25px;"></div>
@@ -21,6 +21,8 @@ I designed, fabricated, and tested a custom composite‑material 3D printer as p
 - Custom toolhead design
 
 <div style="margin-top:25px;"></div>
+
+
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 600px; margin: 25px auto;">
   
@@ -37,10 +39,9 @@ I designed, fabricated, and tested a custom composite‑material 3D printer as p
       font-weight: 600;
       color: #444;
   ">
-    Design - Fabrication - Operation
+    Composite‑material 3D printer
   </div>
 
-  
 
 </div>
 
