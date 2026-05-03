@@ -4,8 +4,10 @@ title: Small Satellite Optical Systems
 ---
 
 <h1 style="text-align:center; margin-top:20px;">
-  Small Satellite Optical Systems
-  
+  Small Satellite Optical Systems 
+  <a href="https://doi.org/10.3390/app10207087" target="_blank" style="font-size:18px; margin-left:10px;">
+    [Article]
+  </a>
 </h1>
 
 
@@ -65,11 +67,14 @@ title: Small Satellite Optical Systems
 
 </div>
 
+
+
 <div style="
       margin-top: 10px;
       font-size: 22px;
       font-weight: 600;
       color: #444;
+      text-align: center;
   ">
     Design - Fabrication - Experiment
 </div>
