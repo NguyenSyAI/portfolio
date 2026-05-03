@@ -95,7 +95,7 @@ The **Vision–IMU Fusion Network** consists of:
 ## Visualizations
 <div style="text-align:center; margin: 25px 0;">
   <video style="width:100%; max-width:650px; border-radius:10px;" controls>
-    <source src="assets/0310(2).mp4" type="video/mp4">
+    <source src="assets/0310(2)mp4.mp4" type="video/mp4">
   </video>
   <div style="font-size:16px; font-weight:600; margin-top:10px; color:#444;">
     Your Caption Here
