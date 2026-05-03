@@ -4,15 +4,15 @@
 <h1 style="text-align:center; margin-top:20px;">
     Active Ankle‑Foot Prosthesis and Ankle Foot Orthoses 
   <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing" target="_blank" style="font-size:18px; margin-left:10px;">
-    [Patent : US 20260047945 A1]
+               [Patent : US 20260047945 A1]
   </a>
 </h1>
 
-<div style="text-align:center; font-size:18px; margin-top:5px;">
+<!-- <div style="text-align:center; font-size:18px; margin-top:5px;">
   <strong>Patents:</strong><br>
   <a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view?usp=sharing" target="_blank">US 20260047950 A1</a><br>
   <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing" target="_blank">US 20260047945 A1</a>
-</div>
+</div> -->
 
 
 ## Role
@@ -79,7 +79,7 @@ This approach presents several significant advantages:
 
 
 
-
+<div style="height:50px;"></div>
 
 <h1 style="text-align:center; margin-top:20px;">
     Semi‑Active AFO with Expandable Elastic‑Beam Mechanism
