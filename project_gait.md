@@ -116,7 +116,7 @@ This hybrid design enables the model to learn both **local kinematic cues** and 
 
   <!-- Left image -->
   <div style="flex: 1; text-align:center;">
-    <img src="assets/Gait1.png" 
+    <img src="assets/gaitevent.png" 
          style="width:100%; border-radius:10px;">
     <div style="font-size:14px; color:#666; margin-top:6px;">
       Gait Event Definitions
