@@ -19,7 +19,7 @@ title: Autonomous Robotic Colonoscopy
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    The overview of an autonomous robotic colonoscopy system
   </div>
 </div>
 
