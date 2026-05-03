@@ -4,7 +4,10 @@ title: UAV Rescue and Delivery
 ---
 
 <h1 style="text-align:center; margin-top:20px;">
-  UAV Rescue and Delivery (Version 2)
+   UAV Rescue and Delivery (Version 2) 
+  <a href="https://ieeexplore.ieee.org/document/9432790" target="_blank" style="font-size:18px; margin-left:10px;">
+    [Article]
+  </a>
 </h1>
 
 ## Role
@@ -27,10 +30,12 @@ Lead designer and system developer — responsible for UAV mechanical design, re
 This project focuses on developing an autonomous UAV system capable of **locating, retrieving, and transporting disabled drones** suffering from battery depletion, communication loss, or flight failure.  
 The system integrates:
 
-- YOLO‑based aerial object detection  
-- A custom mechanical retrieval mechanism  
-- Autonomous navigation and grasping  
-- Indoor and outdoor rescue experiments  
+
+- Vision‑based aerial object detection  
+- Custom wide‑capture‑region retrieval mechanism  
+- Indoor detection and grasping evaluation  
+- Outdoor rescue experiments with multiple victim drones  
+ 
 
 The final prototype achieved **~80% successful retrieval rate** in outdoor tests with multiple victim drones.
 
@@ -43,7 +48,7 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    UAV Rescue System — Detection, Retrieval, Delivery
   </div>
 </div>
 
@@ -57,7 +62,7 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    Outdoor rescue experiments
   </div>
 </div>
 
@@ -65,10 +70,16 @@ The final prototype achieved **~80% successful retrieval rate** in outdoor tests
 - 🔗 <a href="https://youtu.be/ELhrjnPY3ko" target="_blank">Indoor and OutDoor Rescue Experiment </a>  
 - 🔗 <a href="https://youtu.be/zUUR-JPW-Vc" target="_blank">Vision‑Based Detection Experiment</a>
 
+<hr style="margin:30px 0;">
+<div style="margin-top:25px;"></div>
 
 <h1 style="text-align:center; margin-top:20px;">
-  Grasping mechanism for UAV (Version 1)
+   Cable‑Based Airborne Capture Mechanism for UAV Retrieval (Version 1)
+  <a href="https://doi.org/10.20910/JASE.2020.14.3.10" target="_blank" style="font-size:18px; margin-left:10px;">
+    [Article]
+  </a>
 </h1>
+
 
 ## Role
 Lead designer and system developer — responsible for UAV mechanical design, control and fabircation, and full indoor/outdoor testing.
@@ -82,7 +93,7 @@ Lead designer and system developer — responsible for UAV mechanical design, co
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    Working Principle
   </div>
 </div>
 
@@ -97,6 +108,6 @@ Lead designer and system developer — responsible for UAV mechanical design, co
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    Experimental Evaluation
   </div>
 </div>
