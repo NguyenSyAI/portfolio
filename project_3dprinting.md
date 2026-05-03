@@ -15,9 +15,9 @@ For my bachelor’s thesis, I investigated the development and operation of a co
 <div style="margin-top:25px;"></div>
 
 ## Key Features
-- 3D printer machine
-- Composite material 
-- Multi‑axis motion control
+- 3D printer machine  
+- Composite material  
+- Multi‑axis motion control  
 - Custom toolhead design
 
 <div style="margin-top:25px;"></div>
