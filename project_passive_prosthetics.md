@@ -114,47 +114,15 @@ The final prototype demonstrated **improved push‑off power**, **more natural a
 </video> -->
 
 
-<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="assets/Colonoscopy.png"
-       alt="UAV Rescue System"
-       style="width:100%; border-radius:10px;">
-  <div style="
-      margin-top: 10px;
-      font-size: 18px;
-      font-weight: 600;
-      color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
-  </div>
-</div>
-
-
-<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
-  <img src="assets/Colonoscopy1.png"
-       alt="UAV Rescue System"
-       style="width:100%; border-radius:10px;">
-  <div style="
-      margin-top: 10px;
-      font-size: 18px;
-      font-weight: 600;
-      color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
-  </div>
-</div>
-
-
 ## Experiment Links
 - 🔗 <a href="https://www.youtube.com/watch?v=-Jwi2hzbVOI" target="_blank"> Experiment on Semi Active Prosthesis </a>  
-- 🔗 <a href="https://youtu.be/7f8Caa9H9Jo" target="_blank"> Autonomous experiment Method 2 </a>
-- 🔗 <a href="https://youtu.be/hJVRFg1mtqQ" target="_blank"> Autonomous experiment Method 3 </a>
-- 🔗 <a href="https://www.youtube.com/watch?v=NEe99sDCwy4" target="_blank"> Master/Slave experiment </a>
-- 🔗 <a href="https://youtu.be/vcj6f1NP_Lg" target="_blank"> Autonomous Experiment - vivo study on a live pig </a>
 
 
 <h1 style="text-align:center; margin-top:20px;">
   <a href="YOUR_PDF_LINK_HERE"
      target="_blank"
      style="text-decoration:none; color:inherit;">
-    Semi‑Active Ankle‑Foot Prosthesis Using a Pneumatic–Hydraulic Hybrid for Stiffness and Energy Timing Control
+    Active Ankle‑Foot Prosthesis
   </a>
 </h1>
 
