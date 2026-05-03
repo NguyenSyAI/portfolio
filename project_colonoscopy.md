@@ -4,16 +4,30 @@ title: Autonomous Robotic Colonoscopy
 ---
 
 <h1 style="text-align:center; margin-top:20px;">
-  <a href="https://drive.google.com/file/d/1HF4oMZRoWp-EF_oPysVArvt5hySrX4l2/view"
-     target="_blank"
-     style="text-decoration:none; color:inherit;">
-    An End‑to‑End Learning‑Based Control Signal Prediction for Autonomous Robotic Colonoscopy
+    Autonomous Robotic Colonoscopy 
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10348567" target="_blank" style="font-size:18px; margin-left:10px;">
+    [Article]
   </a>
 </h1>
 
-## Role
-Lead designer and system developer — responsible for robotic mechanism design (feeding + steering), data collection, deep learning model development, control algorithm design, and full experimental validation on a colonoscopy training simulator.
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="assets/colonmain.png"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+  </div>
+</div>
 
+
+## Role
+<div style="text-align: justify;">
+Designer and system developer — responsible for the mechanical design and fabrication of the master–slave robotic platform (feeding and steering mechanisms), development of the control architecture, and full system integration. Conducted data collection, implemented deep‑learning–based perception modules, and performed comprehensive experimental validation, including bench‑top trials, anatomical‑model testing, and in‑vivo evaluation on a live pig
+<div>
 ---
 
 ## Overview
@@ -79,10 +93,35 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    
   </div>
 </div>
 
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="assets/colo4.png"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    The overview of an autonomous robotic colonoscopy system
+  </div>
+</div>
+
+<div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
+  <img src="assets/colo3.png"
+       alt="UAV Rescue System"
+       style="width:100%; border-radius:10px;">
+  <div style="
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #444;">
+    Searching algorithm
+  </div>
+</div>
 
 <div style="position: relative; text-align: center; width: 100%; max-width: 650px; margin: 25px auto;">
   <img src="assets/Colonoscopy1.png"
@@ -93,7 +132,7 @@ The final end‑to‑end model achieved **shorter intubation time**, **higher su
       font-size: 18px;
       font-weight: 600;
       color: #444;">
-    Autonomous UAV Rescue System — Detection, Retrieval, Delivery
+    Vivo study on a live pig
   </div>
 </div>
 
