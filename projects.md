@@ -39,13 +39,13 @@ title: Projects
 <div class="project-list">
 
   <div class="project-item">
-    <a href="project_afo.html" class="project-title">
+    <a href="vision_IMU_dataset.html" class="project-title">
        Vision–IMU Fusion for Real‑Time Terrain Recognition in Assistive and Prosthetic Locomotion
     </a>
   </div>
 
   <div class="project-item">
-    <a href="project_afo.html" class="project-title">
+    <a href="project_gait.html" class="project-title">
        ProsthesisNet: Cross-Domain Knowledge Transfer for Multi-Speed Gait Event Detection
     </a>
   </div>
