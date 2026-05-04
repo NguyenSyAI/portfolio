@@ -4,7 +4,7 @@ title: Home
 ---
 
   
-<h1 style="text-align:center;">Sy Nguyen</h1>
+<!-- <h1 style="text-align:center;">Sy Nguyen</h1> -->
 
 <p style="text-align:justify;">
 Nguyen Van Sy graduated with a B.S. degree from Vietnam National University, Ho Chi Minh City (VNU‑HCM) – Ho Chi Minh City University of Technology in 2017. He pursued M.S. and Ph.D. degrees in Dynamics and Control of Robots at Korea Aerospace University, completing them in August 2023. He is currently a Postdoctoral Research Associate in the Department of Mechanical & Aerospace Engineering at the University of Central Florida, USA. His research interests include Robotics‑Control, Biomechanics, Medical Application Robots, Computer Vision, and Deep Learning.
