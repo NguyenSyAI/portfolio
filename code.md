@@ -13,7 +13,7 @@ title: Code
 
 <hr>
 
-<h2>🧠 Project Repositories</h2>
+<h2>Project Repositories</h2>
 <div style="margin-top:15px; line-height:1.7;">
 
 <p>
