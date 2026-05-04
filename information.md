@@ -108,3 +108,24 @@ Savannah, GA, USA. April 9, 2026.</p>
 Florida Atlantic University. March 13, 2025.</p>
 
 </div>
+
+
+<hr style="margin-top:35px;">
+
+<h2 style="margin-top:25px; font-size:24px; color:#000;">📝 Professional Service – Reviewer</h2>
+<div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
+
+<p><strong>Journal Reviewer:</strong><br>
+IEEE, Journal of Bionic Engineering, American Society of Mechanical Engineers (ASME), 
+International Journal of Humanoid Robotics, Frontiers in Robotics and AI, 
+Mechanical Sciences, Journal of Field Robotics, etc.
+</p>
+
+<p><strong>Conference Reviewer:</strong><br>
+IEEE International Conference on Rehabilitation Robotics (ICORR), 
+IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BIOROB), 
+International Conference on Artificial Intelligence, Robotics and Control (AIRC), 
+Florida Conference on Recent Advances in Robotics, etc.
+</p>
+
+</div>
