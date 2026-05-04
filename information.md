@@ -7,6 +7,10 @@ title: Information
   Publications-Patents-Book
 </h1>
 
+
+<div style="margin-top:40px;"></div>
+
+
 <div style="margin-bottom:25px; font-size:17px; line-height:1.6; color:#000;">
   <strong> My Book </strong><br>
   <em>Introduction to Robotics, Vision and Deep Learning</em><br>
@@ -14,6 +18,13 @@ title: Information
     Link
   </a>
 </div>
+
+
+
+
+<div style="margin-top:40px;"></div>
+
+
 
 <hr style="margin-top:25px;">
 
@@ -98,6 +109,11 @@ Journal of Aerospace System Engineering 14(3), 10–16 (2020).</p>
 </div>
 
 
+
+<div style="margin-top:40px;"></div>
+
+
+
 <hr style="margin-top:35px;">
 
 <h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
@@ -119,6 +135,10 @@ Savannah, GA, USA. April 9, 2026.</p>
 Florida Atlantic University. March 13, 2025.</p>
 
 </div>
+
+
+<div style="margin-top:40px;"></div>
+
 
 
 <hr style="margin-top:35px;">
