@@ -1,1 +1,152 @@
+---
+layout: default
+title: Cycling Activity Recognition
+---
+
+<h1 style="text-align:center; margin-top:20px;">
+  Attention‑Based BiLSTM for Cycling Activity Recognition Using Smartphones
+</h1>
+
+<div style="text-align:center; font-size:16px; color:#666; margin-bottom:30px;">
+  IEEE Access, 2023 — DOI: 10.1109/ACCESS.2023.3338137
+</div>
+
+<hr>
+
+<h2>📌 Title</h2>
+<div style="text-align:justify;">
+<strong>Attention Mechanism‑Based Bidirectional Long Short‑Term Memory for Cycling Activity Recognition Using Smartphones</strong>
+</div>
+
+<h2>👥 Authors</h2>
+<div style="text-align:justify;">
+Van Sy Nguyen, Hyunseok Kim, and Dongjun Suh  
+</div>
+
+<h2>🔎 Short Abstract / Overview</h2>
+<div style="text-align:justify;">
+This work proposes a <strong>1D‑CNN + BiLSTM model enhanced with an Attention Mechanism (CBiAM)</strong> for recognizing cyclists’ states using only a smartphone placed in the user’s pocket.  
+The study also introduces the <strong>Cycling Safe (CySa) dataset</strong>, containing five cycling‑related actions: standing, sitting, walking with a bicycle, cycling, and falling.  
+The proposed model achieves <strong>100% F1‑score</strong> on the CySa dataset and demonstrates strong robustness across public HAR datasets including UCI‑HAR, PAMAP2, Opportunity, MOTIONSENSE, and WISDM.
+</div>
+
+<h2>🎯 Motivation</h2>
+<div style="text-align:justify;">
+Cycling is increasingly popular but comes with significant safety risks, including bicycle‑human collisions and fall‑related injuries. Smartphones already contain rich inertial sensors, making them ideal for real‑time monitoring of cyclists’ conditions.  
+This work aims to build a <strong>smartphone‑based safety system</strong> capable of detecting dangerous events (e.g., falls) and sharing the cyclist’s status with nearby riders for rapid assistance.
+</div>
+
+<h2>🚀 Main Contributions</h2>
+<div style="text-align:justify;">
+<ul>
+  <li>Introduced the <strong>CySa dataset</strong> with five cycling‑related activities collected from smartphone sensors.</li>
+  <li>Developed a <strong>CBiAM architecture</strong> combining 1D‑CNN, BiLSTM, and Attention Mechanism.</li>
+  <li>Performed extensive hyperparameter studies (learning rate, batch size, sliding window ratios).</li>
+  <li>Achieved <strong>100% F1‑score</strong> on the CySa dataset.</li>
+  <li>Demonstrated strong generalization on five public HAR datasets.</li>
+</ul>
+</div>
+
+<h2>🧠 Method</h2>
+<div style="text-align:justify;">
+The proposed CBiAM model consists of:
+<ul>
+  <li><strong>1D‑CNN</strong> for spatial feature extraction</li>
+  <li><strong>BiLSTM</strong> for temporal modeling in forward and backward directions</li>
+  <li><strong>Attention Mechanism</strong> to weight important time steps</li>
+  <li><strong>Softmax classifier</strong> for five activity classes</li>
+</ul>
+
+The attention layer computes relevance weights using:
+<blockquote>
+Z(Q, K, V) = Softmax(QKᵀ / √d<sub>m</sub>) V  
+</blockquote>
+
+</div>
+
+<h2>📊 Dataset / Experiments</h2>
+<div style="text-align:justify;">
+The <strong>CySa dataset</strong> was collected using an iPhone 8 at 10 Hz.  
+Five participants performed five actions for ~3 minutes each:
+<ul>
+  <li>Standing (10,902 samples)</li>
+  <li>Sitting (11,472 samples)</li>
+  <li>Walking with bicycle (10,256 samples)</li>
+  <li>Cycling (11,334 samples)</li>
+  <li>Falling (10,789 samples)</li>
+</ul>
+
+
+Features extracted:
+- Mean, median, variance, standard deviation  
+- Normalized using min‑max scaling  
+</div>
+
+<h2>📈 Results</h2>
+
+<h3>CySa Dataset</h3>
+<div style="text-align:justify;">
+The proposed CBiAM model achieved:
+<ul>
+  <li><strong>F1‑score: 100%</strong></li>
+  <li>Outperformed SVM, ANN, 1D‑CNN, LSTM, BiLSTM, and CNN‑LSTM</li>
+</ul>
+
+</div>
+
+<h3>Public HAR Datasets</h3>
+<div style="text-align:justify;">
+Weighted F1‑scores:
+<ul>
+  <li>UCI‑HAR: <strong>97.51%</strong></li>
+  <li>PAMAP2: <strong>99.82%</strong></li>
+  <li>Opportunity LLL: <strong>94.72%</strong></li>
+  <li>WISDM: <strong>97.67%</strong></li>
+  <li>MOTIONSENSE: <strong>87.05%</strong></li>
+</ul>
+
+</div>
+
+<h2>🖼 Key Figures</h2>
+<div style="text-align:justify;">
+(You will upload images later — placeholders added.)
+
+<p><strong>Figure 1 — System Overview</strong></p>
+<img src="assets/cycling_fig1.png" style="width:100%; border-radius:8px;">
+
+<p><strong>Figure 2 — Smartphone Placement & Actions</strong></p>
+<img src="assets/cycling_fig2.png" style="width:100%; border-radius:8px;">
+
+<p><strong>Figure 7 — Proposed CBiAM Architecture</strong></p>
+<img src="assets/cycling_fig7.png" style="width:100%; border-radius:8px;">
+</div>
+
+<h2>🎥 Demo / Video Links</h2>
+<div style="text-align:justify;">
+<i>(Add links when available)</i>
+<ul>
+  <li>Model demo video</li>
+  <li>Dataset collection video</li>
+</ul>
+</div>
+
+<h2>📄 Citation</h2>
+<pre style="background:#f7f7f7; padding:15px; border-radius:6px;">
+@article{nguyen2023cycling,
+  title={Attention Mechanism-Based Bidirectional Long Short-Term Memory 
+         for Cycling Activity Recognition Using Smartphones},
+  author={Nguyen, Van Sy and Kim, Hyunseok and Suh, Dongjun},
+  journal={IEEE Access},
+  year={2023},
+  doi={10.1109/ACCESS.2023.3338137}
+}
+</pre>
+
+<h2>🔗 Related Links</h2>
+<ul>
+  <li><a href="https://github.com/E2ELearning/Cycling_Monitoring_Applications" target="_blank">CySa Dataset GitHub</a></li>
+  <li><a href="#" target="_blank">Code (to be uploaded)</a></li>
+</ul>
+
+<hr style="margin-top:40px;">
 
