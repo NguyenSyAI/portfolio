@@ -29,9 +29,9 @@ Machine design and control
 
 
 
----
 
-## 🔗 Explore
+
+
 
 <!-- <div style="margin-top:20px;">
 
