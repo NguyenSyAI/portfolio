@@ -7,7 +7,7 @@ title: Information
   Publications-Patents-Book
 </h1>
 
-<div style="margin-bottom:25px;">
+<div style="margin-bottom:25px; font-size:17px; line-height:1.6; color:#000;">
   <strong>NGUYEN SY</strong><br>
   <em>Introduction to Robotics, Vision and Deep Learning</em><br>
   <a href="https://www.amazon.com/dp/B0D124P3DK" target="_blank">
