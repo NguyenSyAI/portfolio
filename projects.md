@@ -3,7 +3,8 @@ layout: default
 title: Projects
 ---
 
-# Projects
+<h1 style="text-align:center; margin-top:20px;">Projects</h1>
+
 
 <style>
 .project-list {
@@ -28,8 +29,6 @@ title: Projects
   font-size: 20px;
   color: #333;
   text-decoration: none;
-  text-align: center;
-  display: block;
 }
 
 .project-title:hover {
