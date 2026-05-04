@@ -1,8 +1,4 @@
 
----
-layout: default
-title: Vision–IMU Terrain Recognition
----
 
 <h1 style="text-align:center; margin-top:20px;">
   <a href="YOUR_PDF_LINK_HERE"
@@ -91,14 +87,14 @@ The **Vision–IMU Fusion Network** consists of:
 
 ---
 
-## Visualizations
+
 ## Visualizations
 <div style="text-align:center; margin: 25px 0;">
   <video style="width:100%; max-width:650px; border-radius:10px;" controls>
     <source src="assets/0310(2)mp4.mp4" type="video/mp4">
   </video>
   <div style="font-size:16px; font-weight:600; margin-top:10px; color:#444;">
-    Your Caption Here
+    The experiment consitions
   </div>
 </div>
 
