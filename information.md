@@ -3,31 +3,27 @@ layout: default
 title: Information
 ---
 
-<h1 style="text-align:center; margin-top:20px; margin-bottom:10px;">
+<h1 style="text-align:center; margin-top:20px; margin-bottom:10px; font-size:32px; color:#000;">
   Publications & Patents
 </h1>
 
-<div style="text-align:center; font-size:16px; color:#666; margin-bottom:30px;">
-  A curated list of my patents, journal articles, and conference papers, organized by year.
-</div>
-
 <hr style="margin-top:25px;">
 
-<h2 style="margin-top:25px;">📄 Patents</h2>
-<div style="text-align:justify; line-height:1.65; margin-top:10px;">
+<h2 style="margin-top:25px; font-size:24px; color:#000;">📄 Patents</h2>
+<div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
-<p><strong>“Apparatus and Method for Variable Stiffness Ankle‑Foot Orthosis.”</strong>  
-US 20260047950 A1.</p>
+<p>“Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.” 
+<strong>US 20260047950 A1.</strong></p>
 
-<p><strong>“Method and Apparatus for Enhancing Operation of Leg Prosthesis.”</strong>  
-US 20260047945 A1.</p>
+<p>“Method and Apparatus for Enhancing Operation of Leg Prosthesis.” 
+<strong>US 20260047945 A1.</strong></p>
 
 </div>
 
 <hr style="margin-top:35px;">
 
-<h2 style="margin-top:25px;">📚 Publications (Chronological)</h2>
-<div style="text-align:justify; line-height:1.65; margin-top:10px;">
+<h2 style="margin-top:25px; font-size:24px; color:#000;">📚 Publications</h2>
+<div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
 <!-- 2026 -->
 <p><strong>Nguyen, S.</strong>, Hossain, S., & Choi, H.  
