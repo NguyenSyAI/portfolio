@@ -19,7 +19,9 @@
 <div style="text-align: justify;">
 Lead designer and system developer — responsible for mechanical design of the hybrid pneumatic–hydraulic ankle joint, stiffness‑modulation strategy, gait‑phase timing control, embedded sensing, and full benchtop + human‑in‑the‑loop validation.
 <div>
-  
+
+<div style="height:25px;"></div>
+
 ## Innovation
 
 <div style="text-align: justify;">
