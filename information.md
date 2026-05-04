@@ -80,3 +80,23 @@ Applied Sciences 10(20), 7087 (2020).</p>
 Journal of Aerospace System Engineering 14(3), 10–16 (2020).</p>
 
 </div>
+
+
+<hr style="margin-top:35px;">
+
+<h2 style="margin-top:25px; font-size:24px; color:#000;">🎤 Talks & Presentations</h2>
+<div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
+
+<p><strong>Nguyen, S.</strong>  
+<em>Advanced Gait Event Detection.</em>  
+Bionix Cluster, College of Medicine, University of Central Florida. May 15, 2026.</p>
+
+<p><strong>Nguyen, S.</strong>  
+<em>DeepCNN-Swin Transformer-Based Gait Cycle Event Prediction for Adaptive Push-Off Control Across Variable Walking Speeds.</em>  
+Savannah, GA, USA. April 9, 2026.</p>
+
+<p><strong>Nguyen, S.</strong>  
+<em>Presentation at the 38th Florida Conference on Recent Advances in Robotics.</em>  
+Florida Atlantic University. March 13, 2025.</p>
+
+</div>
