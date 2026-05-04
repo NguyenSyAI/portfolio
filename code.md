@@ -7,9 +7,9 @@ title: Code
   Code & Data
 </h1>
 
-<div style="text-align:center; font-size:16px; color:#666; margin-bottom:30px;">
+<!-- <div style="text-align:center; font-size:16px; color:#666; margin-bottom:30px;">
   Links to GitHub repositories containing source code, datasets, and experiment results.
-</div>
+</div> -->
 
 <hr>
 
