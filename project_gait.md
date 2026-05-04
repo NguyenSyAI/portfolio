@@ -147,6 +147,3 @@ This hybrid design enables the model to learn both **local kinematic cues** and 
   </div>
 </div>
 
-
-```html
-<img src="assets/YOUR_IMAGE.png" style="width:100%; border-radius:10px;">
