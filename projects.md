@@ -28,6 +28,8 @@ title: Projects
   font-size: 20px;
   color: #333;
   text-decoration: none;
+  text-align: center;
+  display: block;
 }
 
 .project-title:hover {
