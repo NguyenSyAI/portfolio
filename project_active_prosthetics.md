@@ -18,7 +18,7 @@
 ## Role
 <div style="text-align: justify;">
 Lead designer and system developer — responsible for mechanical design of the hybrid pneumatic–hydraulic ankle joint, stiffness‑modulation strategy, gait‑phase timing control, embedded sensing, and full benchtop + human‑in‑the‑loop validation.
-<div>
+</div>
 
 <div style="height:25px;"></div>
 
@@ -30,6 +30,7 @@ The objective of this design initiative is to create a compact, lightweight, and
 
 This approach presents several significant advantages:
 
+<br>
 <strong>1) Rapid Response:</strong> The mechanism facilitates quick stiffness modulation and provides additional energy within milliseconds, maintaining a compact and lightweight design. This design strategy effectively minimizes the energy consumption of the prosthesis while facilitating various movement transitions between different activities, thereby offering significant benefits for prosthesis users in real-life situations.
 
 <strong>2) Energy Efficient:</strong> The prosthesis is designed to be energy efficient, utilizing a hydraulic mechanism that effectively captures the substantial elastic energy of the carbon fiber blade through simple operation of a valve, either opening or closing it as needed. The proposed design effectively streamlines the system by removing unnecessary power sources and control mechanisms for energy return timing. This optimization leads to a reduction in overall size, decreased battery requirements, and minimized energy consumption, thereby enhancing the potential for extended use.
@@ -81,14 +82,16 @@ This approach presents several significant advantages:
 
 
 
-<div style="height:50px;"></div>
-
 <h1 style="text-align:center; margin-top:20px;">
-    Semi‑Active AFO with Expandable Elastic‑Beam Mechanism
-  <a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view?usp=sharing" target="_blank" style="font-size:18px; margin-left:10px;">
-    [Patent : US 20260047950 A1]
-  </a>
+    Active Ankle‑Foot Prosthesis and Ankle Foot Orthoses 
+    <br>
+    <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing"
+       target="_blank"
+       style="font-size:18px; text-decoration:none;">
+       [Patent: US 20260047945 A1]
+    </a>
 </h1>
+
 
 ## Innovation
 <div style="text-align: justify;">
