@@ -1,11 +1,20 @@
 
 
 
-<h1 style="text-align:center; margin-top:20px;">
+<!-- <h1 style="text-align:center; margin-top:20px;">
     Active Ankle‑Foot Prosthesis and Ankle Foot Orthoses 
   <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing" target="_blank" style="font-size:18px; margin-left:10px;">
                [Patent : US 20260047945 A1]
   </a>
+</h1> -->
+<h1 style="text-align:center; margin-top:20px;">
+    Active Ankle‑Foot Prosthesis and Ankle Foot Orthoses 
+    <br>
+    <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing"
+       target="_blank"
+       style="font-size:18px; text-decoration:none;">
+       [Patent: US 20260047945 A1]
+    </a>
 </h1>
 
 <!-- <div style="text-align:center; font-size:18px; margin-top:5px;">
