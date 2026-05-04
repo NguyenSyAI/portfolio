@@ -17,7 +17,11 @@ title: Information
 
 <hr style="margin-top:25px;">
 
-<h2 style="margin-top:25px; font-size:24px; color:#000;">📄 Patents</h2>
+
+<h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
+  Patents
+</h2>
+
 <div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
 <p>“Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.” 
@@ -30,7 +34,11 @@ title: Information
 
 <hr style="margin-top:35px;">
 
-<h2 style="margin-top:25px; font-size:24px; color:#000;">📚 Publications</h2>
+
+<h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
+  Publications
+</h2>
+
 <div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
 <!-- 2026 -->
@@ -92,7 +100,10 @@ Journal of Aerospace System Engineering 14(3), 10–16 (2020).</p>
 
 <hr style="margin-top:35px;">
 
-<h2 style="margin-top:25px; font-size:24px; color:#000;">🎤 Talks & Presentations</h2>
+<h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
+  Talks & Presentations
+</h2>
+
 <div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
 <p><strong>Nguyen, S.</strong>  
@@ -112,7 +123,10 @@ Florida Atlantic University. March 13, 2025.</p>
 
 <hr style="margin-top:35px;">
 
-<h2 style="margin-top:25px; font-size:24px; color:#000;">📝 Professional Service – Reviewer</h2>
+<h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
+  Professional Service – Reviewer
+</h2>
+
 <div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
 <p><strong>Journal Reviewer:</strong><br>
