@@ -162,4 +162,20 @@ International Conference on Artificial Intelligence, Robotics and Control (AIRC)
 Florida Conference on Recent Advances in Robotics, etc.
 </p>
 
+<div style="margin-top:25px; text-align:center; line-height:1.8;">
+
+  • Technical Committee Member,  
+    <strong>7th International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)</strong>  
+    <br>
+
+  • Technical Committee Member,  
+    <strong>38th Florida Conference on Recent Advances in Robotics (FCRAR 2025)</strong>  
+    <br>
+
+  • Judge,  
+    <strong>Bionix Cluster, College of Medicine, University of Central Florida — May 15, 2026</strong>  
+    <br>
+
+</div>
+
 </div>
