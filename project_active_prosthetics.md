@@ -94,7 +94,7 @@ This approach presents several significant advantages:
 <h1 style="text-align:center; margin-top:20px;">
     Active Ankle‑Foot Prosthesis and Ankle Foot Orthoses 
     <br>
-    <a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view?usp=sharing"
+    <a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view"
        target="_blank"
        style="font-size:18px; text-decoration:none;">
        [Patent: US 20260047945 A1]
