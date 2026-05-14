@@ -17,7 +17,7 @@ Nguyen Van Sy graduated with a B.S. degree from Vietnam National University, Ho 
 **Postdoctoral Research Associate**  
 Department of Mechanical & Aerospace Engineering, University of Central Florida  
 *Sept 2023 – Present*  
-Assistive device design and autonomous systems
+Assistive device design and Autonomous systems
 
 ## Education
 
