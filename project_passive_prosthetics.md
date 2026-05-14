@@ -113,13 +113,26 @@ The hydraulic valve successfully delayed energy release, holding the CFB for ~0.
 
 </div>
 
-<video width="100%" controls style="border-radius:10px;">
+<!-- <video width="100%" controls style="border-radius:10px;">
   <source src="assets/Nguyen_prosthesis.mp4" type="video/mp4">
 </video>
 <div style="font-size:14px; color:#666; margin-top:6px;">
   Human experiments
+</div> -->
+
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <video width="100%" controls style="border-radius:10px;">
+    <source src="assets/Nguyen_prosthesis.mp4" type="video/mp4">
+  </video>
+  <div style="font-size:14px; color:#666; margin-top:6px;">
+    Human experiments
+  </div>
 </div>
 
+
+
+<div style="height:30px;"></div>
 
 ## Experiment Links
 - 🔗 <a href="https://www.youtube.com/watch?v=-Jwi2hzbVOI" target="_blank"> Experiment on Semi Active Prosthesis </a>
