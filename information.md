@@ -137,11 +137,14 @@ Florida Atlantic University. March 13, 2025.</p>
 </div>
 
 
+
+
 <div style="margin-top:40px;"></div>
 
 
-
 <hr style="margin-top:35px;">
+
+
 
 <h2 style="margin-top:25px; font-size:24px; color:#000; text-align:center;">
   Professional Service – Reviewer
@@ -162,7 +165,8 @@ International Conference on Artificial Intelligence, Robotics and Control (AIRC)
 Florida Conference on Recent Advances in Robotics, etc.
 </p>
 
-<div style="margin-top:25px; text-align:center; line-height:1.8;">
+
+<div style="margin-top:25px; line-height:1.8;">
 
   • Technical Committee Member,  
     <strong>7th International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)</strong>  
