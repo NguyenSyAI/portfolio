@@ -55,12 +55,12 @@ title: Information
 <!-- 2026 -->
 <p><strong>Nguyen, S.</strong>, Hossain, S., & Choi, H.  
 <em>DeepCNN-Swin Transformer-Based Gait Cycle Event Prediction for Adaptive Push-Off Control Across Variable Walking Speeds.</em>  
-AIRC 2026. IEEE. Accepted.</p>
+AIRC 2026. IEEE.</p>
 
 <!-- 2025 -->
 <p>Hossain, M., <strong>Nguyen, S.</strong>, Dranetz, J., Moniruzzaman, M., Guo, Z., Yin, Z., Lee, H., & Choi, H.  
 <em>A Wearable Motion Capture Dataset for Gait Analysis Using IMUs and Shank-Mounted Egocentric Cameras.</em>  
-Scientific Data (2025). Under review.</p>
+Scientific Data (2026)</p>
 
 <p><strong>Nguyen, S.</strong>, Ramezani, S., & Choi, H.  
 <em>Design of a Semi-Active Ankle Foot Prosthesis Using a Pneumatic and Hydraulic Hybrid for Stiffness and Energy Timing Control.</em>  
