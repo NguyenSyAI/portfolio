@@ -17,6 +17,13 @@ title: Code
 <div style="margin-top:15px; line-height:1.7;">
 
 <p>
+  <strong>ProsGaitNet:A semi-supervised domain adaptation framework</strong><br>
+  <a href="https://github.com/NguyenSyAI/ProsGaitNet/tree/main/ProsGaitNet" target="_blank">
+    github.com/NguyenSyAI/imu-gait-detection
+  </a>
+</p>
+
+<p>
   <strong>IMU‑Based Gait Event Detection</strong><br>
   <a href="https://github.com/NguyenSyAI/imu-gait-detection" target="_blank">
     github.com/NguyenSyAI/imu-gait-detection
