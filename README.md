@@ -77,10 +77,10 @@ My goal is to support the development of assistive technologies such as exoskele
 
 ## 📫 Contact
 - Email: nguyenvansy240@gmail.com 
-- GitHub: https://nguyensyai.github.io/portfolio/
+- GitHub: https://github.com/NguyenSyAI   
 - Google Scholar: (optional)
 
 ---
 
 ## 🌐 Website
-Visit my portfolio: https://yourusername.github.io/
+Visit my portfolio:https://nguyensyai.github.io/portfolio/
