@@ -1,4 +1,4 @@
-# portfolio
+
 # Sy Nguyen
 
 PhD Researcher in Robotics & Biomechanics  
@@ -76,8 +76,8 @@ My goal is to support the development of assistive technologies such as exoskele
 ---
 
 ## 📫 Contact
-- Email: your_email@university.edu  
-- GitHub: https://github.com/yourusername  
+- Email: nguyenvansy240@gmail.com 
+- GitHub: https://nguyensyai.github.io/portfolio/
 - Google Scholar: (optional)
 
 ---
