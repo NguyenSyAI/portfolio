@@ -42,15 +42,17 @@ title: Information
 “Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.”
 <strong>US 20260047950 A1.</strong>
 <br>
-<a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view"cument
+<a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view">
+Patent Document
 </a>
 </p>
 
-  <p>
-“Method and Apparatus for Enhancing Operation of Leg Prosthesis”
+<p>
+“Method and Apparatus for Enhancing Operation of Leg Prosthesis.”
 <strong>US 20260047945 A1.</strong>
 <br>
-<a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view"cument
+<a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view">
+Patent Document
 </a>
 </p>
 
