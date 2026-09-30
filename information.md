@@ -35,8 +35,6 @@ title: Information
 
 <div style="text-align:justify; line-height:1.75; margin-top:10px; font-size:17px; color:#000;">
 
-<p>“Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.” 
-<strong>US 20260047950 A1.</strong></p>
 
 <p>
 “Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.”
@@ -56,9 +54,6 @@ Patent Document
 </a>
 </p>
 
-  
-<p>“Method and Apparatus for Enhancing Operation of Leg Prosthesis.” 
-<strong>US 20260047945 A1.</strong></p>
 
 </div>
 
