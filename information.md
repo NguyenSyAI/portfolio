@@ -37,13 +37,24 @@ title: Information
 
 <p>“Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.” 
 <strong>US 20260047950 A1.</strong></p>
-<div style="margin-bottom:25px; font-size:17px; line-height:1.6; color:#000;">
-  <strong> My Book </strong><br>
-  <em>Introduction to Robotics, Vision and Deep Learning</em><br>
-  <a href="https://www.amazon.com/dp/B0D124P3DK" target="_blank">
-    Link
-  </a>
-</div>
+
+<p>
+“Apparatus and Method for Variable Stiffness Ankle-Foot Orthosis.”
+<strong>US 20260047950 A1.</strong>
+<br>
+<a href="https://drive.google.com/file/d/15kw3W2L4f25sP7ZtVakD1lRM0ncDsPn9/view"cument
+</a>
+</p>
+
+  <p>
+“Method and Apparatus for Enhancing Operation of Leg Prosthesis”
+<strong>US 20260047945 A1.</strong>
+<br>
+<a href="https://drive.google.com/file/d/1lzHS7XQuP3Iwwl6x3N6ibAXzu1Hojiy1/view"cument
+</a>
+</p>
+
+  
 <p>“Method and Apparatus for Enhancing Operation of Leg Prosthesis.” 
 <strong>US 20260047945 A1.</strong></p>
 
